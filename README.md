@@ -319,5 +319,19 @@ npm install
 ```bash
 npm run dev
 
+## Screenshots
+
+### Dashboard
+
+![Home](screenshots/homepage.png)
+
+
+### Upload Page
+
+![Upload](screenshots/upload.png)
+
+### AI Chat
+
+![AI Chat](screenshots/upload_transcript.png)
 
 
